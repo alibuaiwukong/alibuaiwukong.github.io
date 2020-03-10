@@ -4,8 +4,8 @@ keywords: blog #博客关键字
 author: "Aliang"
 
 #title hide and show
-hide: (つェ⊂)我藏好啦
-show: ´∇｀ 呀被发现啦~ 
+hide: 我藏好啦
+show: 呀被发现啦~ 
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
@@ -17,7 +17,7 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://cdn.jsdelivr.net/gh/alibuaiwukong/imgdate/mmexport1583850299260.jpg
+background: https://cdn.jsdelivr.net/gh/alibuaiwukong/imgdate/mmexport1583850299260
 #https://cdn.jsdelivr.net/gh/alibuaiwukong/imgdate/987f6e33ba5dc3878fe0ae2083c8d9e8.png 
 #https://cdn.jsdelivr.net/gh/alibuaiwukong/imgdate/9ad0bb7d7bbeebf82054f46aa3f7b193.jpg
 theme_color: 546E7A

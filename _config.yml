@@ -17,10 +17,11 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://cdn.jsdelivr.net/gh/alibuaiwukong/imgdate/mmexport1583850299260(1).jpg
+background: https://cdn.jsdelivr.net/gh/alibuaiwukong/imgdate/mmexport1583850295408.jpg
+#https://cdn.jsdelivr.net/gh/alibuaiwukong/imgdate/mmexport1583850299260(1).jpg
 #https://cdn.jsdelivr.net/gh/alibuaiwukong/imgdate/987f6e33ba5dc3878fe0ae2083c8d9e8.png 
 
-theme_color: ffffff
+theme_color: FF364241
 google_analytics:
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

@@ -1,5 +1,5 @@
-title: 包租婆 #博客标题
-description: 我在世间究竟意欲何为 #博客描述
+title: Aliang #博客标题
+description: 意欲何为 #博客描述
 keywords: blog #博客关键字
 author: "Aliang"
 
@@ -8,8 +8,8 @@ hide: (つェ⊂)我藏好啦
 show: ´∇｀ 呀被发现啦~ 
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "" # change this to the base hostname & protocol for your site
-buildtime: "1583832429" #博客建立时的时间戳 可进入https://tool.lu/timestamp/将博客建立时的日期转换成时间戳
+url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
+buildtime: "1514736000" #博客建立时的时间戳 可进入https://tool.lu/timestamp/将博客建立时的日期转换成时间戳
            #The timestamp at the time of blog establishment can be entered at https://tool.lu/timestamp/to convert the date at the time of blog establishment into a timestamp.
 
 PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
@@ -17,9 +17,8 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://cdn.jsdelivr.net/gh/alibuaiwukong/imgdate/cd0d16e5dbb22bd24d7f91a3d5d341ba.jpg
+background: https://api.dujin.org/bing/1920.php
 theme_color: 546E7A
-
 google_analytics:
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
